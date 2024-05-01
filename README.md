@@ -1,2 +1,2 @@
-# JavaScript-Foundations
+# JavaScript_Foundations
 Intermediate JavaScript concepts
